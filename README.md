@@ -1,3 +1,6 @@
+<h1 align="center">
+  Hi Fellow Devs 👋
+</h1>
 <p align="center">
   <img src="https://github.com/MarlonSteiner/MarlonSteiner/blob/main/github_banner.png" alt="Banner of a developer sitting in front of a desk">
 </p>
@@ -9,7 +12,7 @@
 <h3 align="center">Status</h3>
 
 <p align="center">
-  My kitchen is an airfryer, I code all day, and I’m currently reading Dostoevsky ✨
+  My kitchen is an airfryer, I code all day, & I’m currently reading Dostoevsky ✨
 </p>
 
 <p align="center">
