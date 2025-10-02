@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello Fellow Devs 🙂
+  Welcome 🙂
 </h1>
 <p align="center">
   <img src="https://github.com/MarlonSteiner/MarlonSteiner/blob/main/github_banner.png" alt="Banner of a developer sitting in front of a desk">
@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/portfolio_loading.svg" height="28" alt="Portfolio loading">
+      <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/porfolio_loading.svg" height="28" alt="Portfolio loading">
     </td>
     <td valign="middle">
       <img src="https://github.com/MarlonSteiner/MarlonSteiner/blob/main/loading.gif" width="40" alt="loading gif">
