@@ -25,6 +25,13 @@
 
 <br>
 
-<h3 align="center">
-  Portfolio loading 
-</h3>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/portfolio_loading.svg" height="28" alt="Portfolio loading">
+    </td>
+    <td valign="middle">
+      <img src="https://github.com/MarlonSteiner/MarlonSteiner/blob/main/loading.gif" width="40" alt="loading gif">
+    </td>
+  </tr>
+</table>
