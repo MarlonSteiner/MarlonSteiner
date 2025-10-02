@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi Fellow Devs 👋
+  Hi Fellow Devs 🙂
 </h1>
 <p align="center">
   <img src="https://github.com/MarlonSteiner/MarlonSteiner/blob/main/github_banner.png" alt="Banner of a developer sitting in front of a desk">
