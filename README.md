@@ -8,13 +8,11 @@
 <p align="center">
   My kitchen is an airfryer, I code all day & I'm currently reading Dostoevsky ✨
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/banner_1.png" width="200" alt="Airfryer">
-  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/spacer.png" width="10" height="0" alt="">
-  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/giff.gif" width="200" alt="coding gif">
-  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/spacer.png" width="10" height="0" alt="">
-  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/banner_3.png" width="200" alt="Jester sitting down">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/banner_1.png" width="180" alt="Airfryer">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/giff.gif" width="180" alt="coding gif">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MarlonSteiner/MarlonSteiner/main/banner_3.png" width="180" alt="Jester sitting down">
+</div>
 <br>
 <table align="center">
   <tr>
